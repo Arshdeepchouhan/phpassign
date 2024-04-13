@@ -84,7 +84,6 @@ contact us
 view courses
 
 ![Screenshot from 2024-04-12 15-09-07]![Screenshot from 2024-04-12 15-07-23](https://github.com/amanpreet062003/projectphp/assets/146962888/f552eb20-9bcc-4bf3-a48a-94e63d903f7a)
-(https://github.com/amanpreet062003/projectphp/assets/146962888/6bc69943-ed01-4c3b-ba83-723147ea58a1)
 ![Screenshot from 2024-04-12 15-09-10](https://github.com/amanpreet062003/projectphp/assets/146962888/ed5c24dd-ccfe-442a-b27f-a83cf9883e08)
 
 registraion page
